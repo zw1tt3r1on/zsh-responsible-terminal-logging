@@ -6,7 +6,7 @@ The .zshrc file is a configuration file for the Z shell (zsh), a powerful and cu
 
 ## What is this .zshrc file?
 
-This zshrc file is based on the original kali zshrc file but displays the current time, current date and starts a terminal logging script for every new terminal opened. It then saves all of these in the `$HOME/Terminal_typescripts/raw/<current_data>` directory. This is useful for red teaming operations as this provides
+This zshrc file is based on the original kali zshrc file but displays the current time, current date and starts a terminal logging script for every new terminal opened. It then saves all of these in the `$HOME/Terminal_typescripts/raw/<current_date>` directory. This is useful for red teaming operations as this provides
 - timestamped actions
 - comprehensive logging
 - accountability and transparency
