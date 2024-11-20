@@ -13,7 +13,7 @@ This zshrc file is based on the original kali zshrc file but displays the curren
 - easy evidence collection
 
 ## How to use this?
-- In the /home/kali directory, remove the file .zshrc file
+- In the `/home/kali` or `$HOME` directory, delete the current .zshrc file
 - Download this .zshrc file and place it in the /home/kali directory
 - Run `source .zshrc`
 
